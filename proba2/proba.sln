@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proba", "proba.csproj", "{A0C3B067-5B43-7DF7-8775-AFF6C1126AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proba.Plugins", "proba.Plugins.csproj", "{D0A57920-9986-EE99-1513-B1A5C4F7BC2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C3B067-5B43-7DF7-8775-AFF6C1126AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C3B067-5B43-7DF7-8775-AFF6C1126AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C3B067-5B43-7DF7-8775-AFF6C1126AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C3B067-5B43-7DF7-8775-AFF6C1126AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A57920-9986-EE99-1513-B1A5C4F7BC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A57920-9986-EE99-1513-B1A5C4F7BC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A57920-9986-EE99-1513-B1A5C4F7BC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A57920-9986-EE99-1513-B1A5C4F7BC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
